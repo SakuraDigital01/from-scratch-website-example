@@ -1,0 +1,103 @@
+*{
+
+}
+
+p{
+    font-size: 14px;
+}
+
+.top-nav {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items:center
+}
+
+.logo-nav{
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.header-links{
+    display: flex;
+    align-items: flex-end;
+}
+
+.hero{
+    background-color: #1f2937;
+}
+
+.hero-left-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color:white
+}
+
+.hero-right-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.blue-button{
+    background-color: #3882f6;
+    color:white;
+    padding: 10px;
+}
+
+.trust-signals{
+    background-color: white;
+
+}
+
+.trust-signals-h2{
+    display: flex;
+    align-items: center;
+}
+
+.trust-signals-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.trust-signals-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote{
+    background-color: #e5e7eb;
+    padding: 30px 0px;
+}
+
+.cta{
+    background-color: white;
+}
+
+.cta-container{
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.cta-left-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: white;
+
+}
+
+.cta-right-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+
+}
